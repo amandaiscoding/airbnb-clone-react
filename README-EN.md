@@ -1,4 +1,4 @@
-# <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> AirBnB Experiences Clone
+# <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> AirBnB Experiences Clone
 
 <img src="./public/images/screencapture-localhost-3001-2024-01-27-01_05_21.png">
 
