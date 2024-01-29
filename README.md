@@ -25,3 +25,11 @@ O aplicativo é composto por três componentes:
 * Utilização de map para acessar dados;
 * Propriedade key;
 * Props: receber props em um componente, desestruturar props, passar props não-string.
+
+* ## Scripts
+
+No diretório do projeto, execute:
+
+`npm i` para instalar todas as dependências
+
+`npm start` para abrir o projeto no seu navegador
