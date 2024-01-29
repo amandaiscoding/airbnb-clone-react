@@ -20,3 +20,11 @@ The app consists of three components:
 * Using map to access data;
 * Key prop;
 * Props: receiving props in a component, destructuring props, passing in non-string props.
+
+* ## Scripts
+
+In the project directory, run:
+
+`npm i` to install all dependencies
+
+`npm start` to open the project in your browser
