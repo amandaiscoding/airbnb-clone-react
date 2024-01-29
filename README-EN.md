@@ -21,7 +21,7 @@ The app consists of three components:
 * Key prop;
 * Props: receiving props in a component, destructuring props, passing in non-string props.
 
-* ## Scripts
+## Scripts
 
 In the project directory, run:
 
