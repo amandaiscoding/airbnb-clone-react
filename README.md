@@ -26,7 +26,7 @@ O aplicativo é composto por três componentes:
 * Propriedade key;
 * Props: receber props em um componente, desestruturar props, passar props não-string.
 
-* ## Scripts
+## Scripts
 
 No diretório do projeto, execute:
 
